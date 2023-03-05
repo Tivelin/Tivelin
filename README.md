@@ -1,7 +1,4 @@
-<p align="center">
- 
-</p align="center">
-<img src=![iniii](https://user-images.githubusercontent.com/126872741/222944982-83b2d63a-1318-4db5-b38f-4194a9462e9c.png)>
+![image](https://user-images.githubusercontent.com/126872741/222945899-779a600c-b48c-48c4-8b17-70a8f73dfcdc.png)
 
 <p align="center">
   I'm a 2nd year student pursuing Bachelor's in Information System 🎓 from Multi Data Palembang University 🏛.
