@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src=![Screenshot 2023-03-05 124834](https://user-images.githubusercontent.com/126872741/222943969-14550b29-b3c6-461c-b692-35a4f984a4d6.png)>
+<img src=![iniii](https://user-images.githubusercontent.com/126872741/222944982-83b2d63a-1318-4db5-b38f-4194a9462e9c.png)>
 
 <p align="center">
   I'm a 2nd year student pursuing Bachelor's in Information System 🎓 from Multi Data Palembang University 🏛.
