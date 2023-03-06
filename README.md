@@ -13,4 +13,9 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Python-purple?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+
+<p align="center"><img src="https://www.codewars.com/users/Tivelin/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tivelin&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tivelin&theme="monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tivelin&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
