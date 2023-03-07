@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=2C3333&size=30&center=true&vCenter=true&width=550&height=60&lines=-Every+moment+matters-;">
+</p>
+
 ![image](https://user-images.githubusercontent.com/126872741/222945899-779a600c-b48c-48c4-8b17-70a8f73dfcdc.png)
 
 <p align="center">
@@ -15,6 +19,5 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tivelin&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tivelin&theme="monokai"/>
 </p>
