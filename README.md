@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/126872741/222945899-779a600c-b48c-48c4-8b17-70a8f73dfcdc.png)
 
 <p align="center">
-  I'm a 2nd year student pursuing Bachelor's in Information System 🎓 from Multi Data Palembang University 🏛.
+  I'm a 2nd year student pursuing Bachelor's in Information System, from Multi Data Palembang University 👩🏻‍🎓
 </p>
 
 <h2 align="center">Things i've learned <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
